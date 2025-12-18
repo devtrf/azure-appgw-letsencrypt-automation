@@ -3,6 +3,11 @@
     Automated certificate renewal for Azure Application Gateway using Let's Encrypt and ACME-PS.
     Updated for 2025 standards (Managed Identity, ACME-PS v1.5.9+).
 
+.NOTES
+    Author: Tiago Ferreira
+    Version: 1
+    Date: 2025-12-17
+
 .DESCRIPTION
     This script performs the following actions:
     1. Authenticates to Azure using Managed Identity.
